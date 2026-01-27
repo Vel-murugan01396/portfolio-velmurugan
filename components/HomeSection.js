@@ -77,7 +77,7 @@ export default function HomeSection() {
               View Work
             </a>
             <a
-              href="/velmurugan2026.pdf"
+              href="/Velmurugan_Resume.pdf"
               download="Velmurugan_Resume.pdf"
               className="inline-flex items-center justify-center gap-2 px-5 py-2.5 sm:py-2.5 rounded-lg border border-slate-300 text-slate-700 font-medium hover:border-indigo-400 hover:text-indigo-600 active:bg-indigo-50 transition-colors"
             >
