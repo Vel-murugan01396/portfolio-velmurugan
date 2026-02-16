@@ -1,107 +1,3 @@
-// 'use client'
-
-// const education = [
-//   {
-//     degree: 'B-TECH: Mechanical Engineering',
-//     institution: 'Vel Tech University | Avadi',
-//     location: 'Chennai-600062',
-//     period: 'June 2013 - May 2017',
-//   },
-// ]
-
-// const experience = [
-//   {
-//     role: 'Software Developer',
-//     company: 'Astroved.com PVT LTD',
-//     period: 'Jun 2024 - Jan 2025',
-//   },
-//   {
-//     role: 'Front End Developer',
-//     company: 'RTH INFOTECH PRIVATE LIMITED',
-//     period: 'November 2022 - June 2024',
-//   },
-// ]
-
-// export default function AboutSection() {
-//   return (
-//     <section
-//       id="about"
-//       className="py-16 sm:py-20 px-4 sm:px-6 bg-slate-50/80"
-//     >
-//       <div className="max-w-6xl mx-auto">
-//         {/* Section Header */}
-//         <div className="text-center mb-12 sm:mb-16">
-//           <h2 className="text-2xl sm:text-3xl md:text-4xl font-bold text-slate-800 mb-3">
-//             About Me
-//           </h2>
-//           <p className="text-sm sm:text-base text-slate-600 max-w-2xl mx-auto">
-//             Front-End Developer with 3 years of experience in Next.js, React, and WordPress, 
-//             covering design, development, and deployment. Skilled in building responsive, 
-//             SEO-friendly web applications with a focus on performance and usability.
-//           </p>
-//         </div>
-
-//         {/* Two Column Layout */}
-//         <div className="grid md:grid-cols-2 gap-8 lg:gap-12">
-//           {/* Education Column */}
-//           <div className="bg-white rounded-2xl p-6 sm:p-8 shadow-sm border border-slate-100">
-//             <h3 className="text-xl sm:text-2xl font-bold text-slate-800 mb-2">
-//               Education
-//             </h3>
-//             <div className="w-24 h-1 bg-gradient-to-r from-teal-400 to-cyan-500 rounded-full mb-6" />
-            
-//             <div className="space-y-6">
-//               {education.map((edu, index) => (
-//                 <div key={index} className="relative pl-6 border-l-2 border-teal-400">
-//                   <div className="absolute -left-[9px] top-0 w-4 h-4 bg-teal-400 rounded-full" />
-//                   <h4 className="text-base sm:text-lg font-semibold text-slate-800">
-//                     {edu.degree}
-//                   </h4>
-//                   <p className="text-sm sm:text-base text-slate-600 mt-1">
-//                     {edu.institution}
-//                   </p>
-//                   <p className="text-sm text-slate-500">
-//                     {edu.location}
-//                   </p>
-//                   <p className="text-xs sm:text-sm text-teal-600 font-medium mt-2">
-//                     {edu.period}
-//                   </p>
-//                 </div>
-//               ))}
-//             </div>
-//           </div>
-
-//           {/* Experience Column */}
-//           <div className="bg-white rounded-2xl p-6 sm:p-8 shadow-sm border border-slate-100">
-//             <h3 className="text-xl sm:text-2xl font-bold text-slate-800 mb-2">
-//               Work Experience
-//             </h3>
-//             <div className="w-24 h-1 bg-gradient-to-r from-teal-400 to-cyan-500 rounded-full mb-6" />
-            
-//             <div className="space-y-6">
-//               {experience.map((exp, index) => (
-//                 <div key={index} className="relative pl-6 border-l-2 border-teal-400">
-//                   <div className="absolute -left-[9px] top-0 w-4 h-4 bg-teal-400 rounded-full" />
-//                   <h4 className="text-base sm:text-lg font-semibold text-slate-800">
-//                     {exp.role}
-//                   </h4>
-//                   <p className="text-sm sm:text-base text-slate-600 mt-1">
-//                     {exp.company}
-//                   </p>
-//                   <p className="text-xs sm:text-sm text-teal-600 font-medium mt-2">
-//                     {exp.period}
-//                   </p>
-//                 </div>
-//               ))}
-//             </div>
-//           </div>
-//         </div>
-//       </div>
-//     </section>
-//   )
-// }
-
-
 
 'use client'
 
@@ -118,7 +14,7 @@ const experience = [
   {
     role: 'Software Developer',
     company: 'Astroved.com PVT LTD',
-    period: 'Jun 2024 - Jan 2025',
+    period: 'Jun 2024 - Jan 2026',
   },
   {
     role: 'Front End Developer',
